@@ -59,6 +59,13 @@ struct HotKeySectionView: View {
                     Image(systemName: "clock")
                 }
             }
+
+            Label {
+                Toggle("Use Foot Pedal as Additional Toggle", isOn: $store.hexSettings.useFootPedal)
+                Text("Trigger recording with a USB foot pedal in addition to the hot key")
+            } icon: {
+                Image(systemName: "foot.2")
+            }
         }
         .enableInjection()
     }

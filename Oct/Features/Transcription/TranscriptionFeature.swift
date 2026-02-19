@@ -41,6 +41,10 @@ struct TranscriptionFeature {
     case hotKeyPressed
     case hotKeyReleased
 
+    // Foot pedal actions (gated by useFootPedal setting)
+    case footPedalPressed
+    case footPedalReleased
+
     // Recording flow
     case startRecording
     case stopRecording
@@ -104,6 +108,16 @@ struct TranscriptionFeature {
       case .hotKeyReleased:
         // If we're currently recording, then stop. Otherwise, just cancel
         // the delayed "startRecording" effect if we never actually started.
+        return handleHotKeyReleased(isRecording: state.isRecording)
+
+      // MARK: - Foot Pedal Flow
+
+      case .footPedalPressed:
+        guard state.hexSettings.useFootPedal else { return .none }
+        return handleHotKeyPressed(isTranscribing: state.isTranscribing)
+
+      case .footPedalReleased:
+        guard state.hexSettings.useFootPedal else { return .none }
         return handleHotKeyReleased(isRecording: state.isRecording)
 
       // MARK: - Recording Flow
@@ -268,12 +282,12 @@ private extension TranscriptionFeature {
       await withTaskGroup(of: Void.self) { group in
         group.addTask {
           for await _ in pedalDown {
-            await send(.hotKeyPressed)
+            await send(.footPedalPressed)
           }
         }
         group.addTask {
           for await _ in pedalUp {
-            await send(.hotKeyReleased)
+            await send(.footPedalReleased)
           }
         }
       }

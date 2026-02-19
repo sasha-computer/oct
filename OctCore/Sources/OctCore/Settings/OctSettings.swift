@@ -68,6 +68,7 @@ public struct OctSettings: Codable, Equatable, Sendable {
 	public var wordRemovals: [WordRemoval]
 	public var wordRemappings: [WordRemapping]
 	public var autoSubmitKey: AutoSubmitKey
+	public var useFootPedal: Bool
 
 	public init(
 		soundEffectsEnabled: Bool = true,
@@ -92,7 +93,8 @@ public struct OctSettings: Codable, Equatable, Sendable {
 		wordRemovalsEnabled: Bool = false,
 		wordRemovals: [WordRemoval] = OctSettings.defaultWordRemovals,
 		wordRemappings: [WordRemapping] = [],
-		autoSubmitKey: AutoSubmitKey = .off
+		autoSubmitKey: AutoSubmitKey = .off,
+		useFootPedal: Bool = false
 	) {
 		self.soundEffectsEnabled = soundEffectsEnabled
 		self.soundEffectsVolume = soundEffectsVolume
@@ -117,6 +119,7 @@ public struct OctSettings: Codable, Equatable, Sendable {
 		self.wordRemovals = wordRemovals
 		self.wordRemappings = wordRemappings
 		self.autoSubmitKey = autoSubmitKey
+		self.useFootPedal = useFootPedal
 	}
 
 	public init(from decoder: Decoder) throws {
@@ -162,6 +165,7 @@ private enum HexSettingKey: String, CodingKey, CaseIterable {
 	case wordRemovals
 	case wordRemappings
 	case autoSubmitKey
+	case useFootPedal
 }
 
 private struct SettingsField<Value: Codable & Sendable> {
@@ -293,6 +297,7 @@ private enum OctSettingsSchema {
 			keyPath: \.wordRemappings,
 			default: defaults.wordRemappings
 		).eraseToAny(),
-		SettingsField(.autoSubmitKey, keyPath: \.autoSubmitKey, default: defaults.autoSubmitKey).eraseToAny()
+		SettingsField(.autoSubmitKey, keyPath: \.autoSubmitKey, default: defaults.autoSubmitKey).eraseToAny(),
+		SettingsField(.useFootPedal, keyPath: \.useFootPedal, default: defaults.useFootPedal).eraseToAny()
 	]
 }
