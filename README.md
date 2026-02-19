@@ -1,42 +1,75 @@
-# Hex — Voice → Text
+# Oct — Voice → Text
 
-Press-and-hold a hotkey to transcribe your voice and paste the result wherever you're typing.
+A personal fork of [Hex](https://github.com/kitlangton/Hex) by Kit Langton, with a few extra settings added for my own workflow.
 
-**[Download Hex for macOS](https://hex-updates.s3.us-east-1.amazonaws.com/hex-latest.dmg)**
+Press and hold a hotkey (or foot pedal) to transcribe your voice and paste the result wherever you're typing. All processing happens on-device — nothing leaves your Mac.
 
-> **Note:** Hex is currently only available for **Apple Silicon** Macs.
+> Apple Silicon only. macOS 14+.
 
-Or download via homebrew:
+## What's different from upstream Hex
+
+### Auto Submit
+
+After transcription is pasted, Oct can automatically send a keystroke to submit the text — useful in chat apps, Claude, etc. Configurable in **General → Auto Submit**:
+
+- **Off** — paste and stop (default)
+- **Enter** — send Return after pasting
+- **⌘ Enter** — send Command+Return
+- **⇧ Enter** — send Shift+Return
+
+### Foot Pedal Support
+
+USB foot pedals are recognised as a recording trigger. Enable **Use Foot Pedal as Additional Toggle** in the **Hot Key** section. The pedal works exactly like the hotkey: press to start recording, release to transcribe. It's additive — your keyboard hotkey still works alongside it.
+
+Detection is built into the app via a CGEventTap; no separate daemon required.
+
+## Settings reference
+
+### Hot Key
+
+| Setting | Description |
+|---|---|
+| Hot key | Global shortcut to trigger recording. Modifier-only (e.g. Option) or modifier+key. |
+| Use double-tap only | Lock recording on double-tap; tap again to stop. |
+| Ignore below Xs | For modifier-only hotkeys: discard presses shorter than this threshold (0–2 s). |
+| Use Foot Pedal as Additional Toggle | Treat a USB foot pedal as a second recording trigger. |
+
+### General
+
+| Setting | Description |
+|---|---|
+| Open on Login | Launch Oct at login. |
+| Show Dock Icon | Show/hide the Dock icon (Oct lives in the menu bar). |
+| Use clipboard to insert | Fast paste via clipboard. Turn off to use simulated keypresses instead (slower, clipboard-safe). |
+| Copy to clipboard | Also copy the transcription text to the clipboard after pasting. |
+| Auto Submit | Keystroke to send after pasting: Off / Enter / ⌘ Enter / ⇧ Enter. |
+| Prevent System Sleep while Recording | Keep the Mac awake during recording sessions. |
+| Audio Behavior while Recording | Pause media / mute volume / do nothing while the mic is active. |
+
+### History
+
+| Setting | Description |
+|---|---|
+| Save Transcription History | Persist transcriptions and audio for later review. |
+| Maximum History Entries | Cap on stored entries (Unlimited / 50 / 100 / 200 / 500 / 1000). |
+| Paste Last Transcript | Hotkey to instantly re-paste the most recent transcription. |
+
+### Model
+
+Default is **Parakeet TDT v3** via [FluidAudio](https://github.com/FluidInference/FluidAudio) — fast and multilingual. WhisperKit models (Tiny / Base / Large v3) are also available. All models run on-device via Core ML.
+
+## Building
+
 ```bash
-brew install --cask kitlangton-hex
+# Open in Xcode
+open Oct.xcodeproj
+
+# Or build from the command line
+xcodebuild -scheme Oct -configuration Release
 ```
 
-I've opened-sourced the project in the hopes that others will find it useful! Hex supports both [Parakeet TDT v3](https://github.com/FluidInference/FluidAudio) via the awesome [FluidAudio](https://github.com/FluidInference/FluidAudio) (the default—it's frickin' unbelievable: fast, multilingual, and cloud-optimized) and the awesome [WhisperKit](https://github.com/argmaxinc/WhisperKit) for on-device transcription. We use the incredible [Swift Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) for structuring the app. Please open issues with any questions or feedback! ❤️
-
-## Instructions
-
-Once you open Hex, you'll need to grant it microphone and accessibility permissions—so it can record your voice and paste the transcribed text into any application, respectively.
-
-Once you've configured a global hotkey, there are **two recording modes**:
-
-1. **Press-and-hold** the hotkey to begin recording, say whatever you want, and then release the hotkey to start the transcription process. 
-2. **Double-tap** the hotkey to *lock recording*, say whatever you want, and then **tap** the hotkey once more to start the transcription process.
-
-## Contributing
-
-**Issue reports are welcome!** If you encounter bugs or have feature requests, please [open an issue](https://github.com/kitlangton/Hex/issues).
-
-**Note on Pull Requests:** At this stage, I'm not actively reviewing code contributions for significant features or core logic changes. The project is evolving rapidly and it's easier for me to work directly from issue reports. Bug fixes and documentation improvements are still appreciated, but please open an issue first to discuss before investing time in a large PR. Thanks for understanding!
-
-### Changelog workflow
-
-- **For AI agents:** Run `bun run changeset:add-ai <type> "summary"` (e.g., `bun run changeset:add-ai patch "Fix clipboard timing"`) to create a changeset non-interactively.
-- **For humans:** Run `bunx changeset` when your PR needs release notes. Pick `patch`, `minor`, or `major` and write a short summary—this creates a `.changeset/*.md` fragment.
-- Check what will ship with `bunx changeset status --verbose`.
-- `npm run sync-changelog` (or `bun run tools/scripts/sync-changelog.ts`) mirrors the root `CHANGELOG.md` into `Hex/Resources/changelog.md` so the in-app sheet always matches GitHub releases.
-- The release tool consumes the pending fragments, bumps `package.json` + `Info.plist`, regenerates `CHANGELOG.md`, and feeds the resulting section to GitHub + Sparkle automatically. Releases fail fast if no changesets are queued, so you can't forget.
-- If you truly need to ship without pending Changesets (for example, re-running a failed publish), the release script will now prompt you to confirm and choose a `patch`/`minor`/`major` bump interactively before continuing.
+Requires Xcode 15+.
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+MIT. See `LICENSE`.
