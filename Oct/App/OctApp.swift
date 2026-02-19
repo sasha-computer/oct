@@ -14,6 +14,12 @@ struct OctApp: App {
   
     var body: some Scene {
         MenuBarExtra {
+            let version = Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? ""
+            Text("Oct \(version)")
+                .foregroundStyle(.secondary)
+
+            Divider()
+
             CheckForUpdatesView()
 
             // Copy last transcript to clipboard

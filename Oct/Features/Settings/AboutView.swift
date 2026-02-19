@@ -1,12 +1,10 @@
 import ComposableArchitecture
 import Inject
 import SwiftUI
-import Sparkle
 
 struct AboutView: View {
     @ObserveInjection var inject
     @Bindable var store: StoreOf<SettingsFeature>
-    @State var viewModel = CheckForUpdatesViewModel.shared
     @State private var showingChangelog = false
 
     var body: some View {
@@ -16,10 +14,7 @@ struct AboutView: View {
                     Label("Version", systemImage: "info.circle")
                     Spacer()
                     Text(Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "Unknown")
-                    Button("Check for Updates") {
-                        viewModel.checkForUpdates()
-                    }
-                    .buttonStyle(.bordered)
+                        .foregroundStyle(.secondary)
                 }
                 HStack {
                     Label("Changelog", systemImage: "doc.text")
@@ -28,22 +23,19 @@ struct AboutView: View {
                         showingChangelog.toggle()
                     }
                     .buttonStyle(.bordered)
-                    .sheet(isPresented: $showingChangelog, onDismiss: {
-                        showingChangelog = false
-                    }) {
+                    .sheet(isPresented: $showingChangelog) {
                         ChangelogView()
                     }
                 }
                 HStack {
-                    Label("Hex is open source", systemImage: "apple.terminal.on.rectangle")
+                    Label("Source code", systemImage: "apple.terminal.on.rectangle")
                     Spacer()
-                    Link("Visit our GitHub", destination: URL(string: "https://github.com/kitlangton/Hex/")!)
+                    Link("github.com/sasha-computer/oct", destination: URL(string: "https://github.com/sasha-computer/oct")!)
                 }
-                
                 HStack {
-                    Label("Support the developer", systemImage: "heart")
+                    Label("Based on Hex by Kit Langton", systemImage: "heart")
                     Spacer()
-                    Link("Become a Sponsor", destination: URL(string: "https://github.com/sponsors/kitlangton")!)
+                    Link("github.com/kitlangton/Hex", destination: URL(string: "https://github.com/kitlangton/Hex")!)
                 }
             }
         }

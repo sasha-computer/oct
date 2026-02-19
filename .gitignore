@@ -9,7 +9,7 @@ updates/
 *.xcuserstate
 buildServer.json
 bin
-scripts
+# scripts (removed - we use this folder for reload.sh etc.)
 tools
 ExportOptions.plist
 HexCore/.build
