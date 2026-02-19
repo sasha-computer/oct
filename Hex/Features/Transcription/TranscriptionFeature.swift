@@ -84,6 +84,7 @@ struct TranscriptionFeature {
         return .merge(
           startMeteringEffect(),
           startHotKeyMonitoringEffect(),
+          startFootswitchMonitoringEffect(),
           warmUpRecorderEffect()
         )
 
@@ -252,6 +253,30 @@ private extension TranscriptionFeature {
   func warmUpRecorderEffect() -> Effect<Action> {
     .run { _ in
       await recording.warmUpRecorder()
+    }
+  }
+
+  /// Effect to monitor foot pedal events via DistributedNotificationCenter.
+  /// The footswitch daemon detects USB pedal presses and posts these notifications.
+  func startFootswitchMonitoringEffect() -> Effect<Action> {
+    .run { send in
+      let pedalDown = DistributedNotificationCenter.default().notifications(
+        named: Notification.Name("com.footswitch.pedalDown"))
+      let pedalUp = DistributedNotificationCenter.default().notifications(
+        named: Notification.Name("com.footswitch.pedalUp"))
+
+      await withTaskGroup(of: Void.self) { group in
+        group.addTask {
+          for await _ in pedalDown {
+            await send(.hotKeyPressed)
+          }
+        }
+        group.addTask {
+          for await _ in pedalUp {
+            await send(.hotKeyReleased)
+          }
+        }
+      }
     }
   }
 }
