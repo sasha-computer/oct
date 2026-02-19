@@ -14,6 +14,8 @@ tools
 ExportOptions.plist
 HexCore/.build
 HexCore/.swiftpm/xcode/xcuserdata/kit.xcuserdatad/xcschemes
+OctCore/.build
+OctCore/.swiftpm/xcode/xcuserdata/
 FluidAudio/
 node_modules/
 .npm-cache/
