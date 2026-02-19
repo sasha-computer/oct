@@ -1,0 +1,145 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Constants.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Constants.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Constants.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Constants.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Constants.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Logging.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Logging.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Logging.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Logging.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/Logging.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Logic/HotKeyProcessor.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKeyProcessor.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKeyProcessor.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKeyProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKeyProcessor.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKeyProcessor.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Logic/ModelPatternMatcher.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ModelPatternMatcher.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ModelPatternMatcher.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ModelPatternMatcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ModelPatternMatcher.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ModelPatternMatcher.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Logic/RecordingDecision.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/RecordingDecision.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/RecordingDecision.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/RecordingDecision~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/RecordingDecision.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/RecordingDecision.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/HotKey.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKey.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKey.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKey.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HotKey.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/KeyEvent.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyEvent.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyEvent.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyEvent.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyEvent.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/KeyboardCommand.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyboardCommand.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyboardCommand.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyboardCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyboardCommand.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/KeyboardCommand.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/ParakeetModel.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ParakeetModel.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ParakeetModel.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ParakeetModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ParakeetModel.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/ParakeetModel.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/TranscriptionHistory.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptionHistory.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptionHistory.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptionHistory~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptionHistory.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptionHistory.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/WordRemapping.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemapping.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemapping.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemapping.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemapping.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Models/WordRemoval.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemoval.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemoval.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemoval~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemoval.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/WordRemoval.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/PermissionClient/AppActivation.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/AppActivation.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/AppActivation.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/AppActivation~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/AppActivation.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/AppActivation.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/PermissionClient/PermissionClient+Live.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient+Live.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient+Live.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient+Live~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient+Live.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient+Live.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/PermissionClient/PermissionClient.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionClient.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/PermissionClient/PermissionStatus.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionStatus.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionStatus.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionStatus.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/PermissionStatus.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/Settings/HexSettings.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HexSettings.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HexSettings.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HexSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HexSettings.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/HexSettings.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/SleepManagementClient/SleepManagementClient+Live.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient+Live.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient+Live.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient+Live~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient+Live.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient+Live.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/SleepManagementClient/SleepManagementClient.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/SleepManagementClient.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/Sources/HexCore/TranscriptPersistenceClient/TranscriptPersistenceClient.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptPersistenceClient.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptPersistenceClient.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptPersistenceClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptPersistenceClient.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/TranscriptPersistenceClient.dia"
+  }
+}

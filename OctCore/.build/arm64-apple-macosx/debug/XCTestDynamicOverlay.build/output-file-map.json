@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Deprecations.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Deprecations.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Exports.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Exports.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Exports.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Exports.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/XCTestDynamicOverlay.build/Exports.dia"
+  }
+}

@@ -1,0 +1,3 @@
+module Sauce {
+    header "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/include/Sauce-Swift.h"
+}

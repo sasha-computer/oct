@@ -1,0 +1,187 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Dependency.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Dependency.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Dependency.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Dependency~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Dependency.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Dependency.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyContext.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyContext.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyContext.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyContext.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyContext.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyKey.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyKey.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyKey.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyKey.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyKey.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyValues.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyValues.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyValues.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/DependencyValues.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Assert.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Assert.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Assert.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Assert~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Assert.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Assert.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Calendar.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Calendar.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Calendar.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Calendar~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Calendar.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Calendar.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Clocks.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Clocks.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Clocks.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Clocks~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Clocks.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Clocks.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Context.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Context.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Context.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Context.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Context.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Date.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Date.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Date.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Date.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Date.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/FireAndForget.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/FireAndForget.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/FireAndForget.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/FireAndForget~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/FireAndForget.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/FireAndForget.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/Locale.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Locale.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Locale.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Locale~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Locale.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Locale.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/MainQueue.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainQueue.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainQueue.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainQueue.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainQueue.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/MainRunLoop.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainRunLoop.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainRunLoop.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainRunLoop~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainRunLoop.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/MainRunLoop.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/NotificationCenter.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/NotificationCenter.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/NotificationCenter.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/NotificationCenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/NotificationCenter.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/NotificationCenter.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/OpenURL.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/OpenURL.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/OpenURL.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/OpenURL~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/OpenURL.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/OpenURL.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/TimeZone.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TimeZone.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TimeZone.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TimeZone~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TimeZone.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TimeZone.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/URLSession.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/URLSession.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/URLSession.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/URLSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/URLSession.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/URLSession.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/UUID.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/UUID.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/UUID.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/UUID.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/UUID.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/DependencyValues/WithRandomNumberGenerator.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithRandomNumberGenerator.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithRandomNumberGenerator.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithRandomNumberGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithRandomNumberGenerator.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithRandomNumberGenerator.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/AppEntryPoint.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/AppEntryPoint.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/AppEntryPoint.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/AppEntryPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/AppEntryPoint.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/AppEntryPoint.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/Deprecations.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Deprecations.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Deprecations.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/Exports.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Exports.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Exports.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Exports.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/Exports.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Internal/TypeName.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TypeName.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TypeName.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TypeName~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TypeName.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TypeName.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Traits/PreviewTrait.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/PreviewTrait.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/PreviewTrait.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/PreviewTrait~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/PreviewTrait.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/PreviewTrait.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/Traits/TestTrait.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TestTrait.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TestTrait.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TestTrait~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TestTrait.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/TestTrait.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithDependencies.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithDependencies.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithDependencies~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithDependencies.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/WithDependencies.dia"
+  }
+}

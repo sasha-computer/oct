@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/AnyClock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/AnyClock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/AnyClock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/AnyClock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/AnyClock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/AnyClock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/ImmediateClock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/ImmediateClock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/ImmediateClock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/ImmediateClock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/ImmediateClock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/ImmediateClock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/Internal/Lock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Lock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Lock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Lock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Lock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/Internal/_AsyncTimerSequence.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/_AsyncTimerSequence.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/_AsyncTimerSequence.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/_AsyncTimerSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/_AsyncTimerSequence.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/_AsyncTimerSequence.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/SwiftUI.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/SwiftUI.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/SwiftUI.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/SwiftUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/SwiftUI.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/SwiftUI.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/TestClock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/TestClock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/TestClock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/TestClock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/TestClock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/TestClock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/Timer.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Timer.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Timer.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Timer.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/Timer.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-clocks/Sources/Clocks/UnimplementedClock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/UnimplementedClock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/UnimplementedClock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/UnimplementedClock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/UnimplementedClock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Clocks.build/UnimplementedClock.dia"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/AnyScheduler.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/AnyScheduler.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Concurrency.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Concurrency.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/ImmediateScheduler.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/ImmediateScheduler.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Deprecations.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Deprecations.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Deprecations.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Lock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Lock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Lock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Lock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Lock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/NSRecursiveLock.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/NSRecursiveLock.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/NSRecursiveLock.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/NSRecursiveLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/NSRecursiveLock.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/NSRecursiveLock.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Internal/Platform.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Platform.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Platform.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Platform~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Platform.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Platform.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/SwiftUI.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/SwiftUI.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/TestScheduler.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/TestScheduler.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/Timer.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/Timer.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIKit.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIKit.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UIScheduler.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UIScheduler.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/combine-schedulers/Sources/CombineSchedulers/UnimplementedScheduler.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/CombineSchedulers.build/UnimplementedScheduler.dia"
+  }
+}

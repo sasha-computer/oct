@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/InputSource.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/InputSource.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/InputSource.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/InputSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/InputSource.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/InputSource.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/Key.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Key.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Key.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Key~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Key.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Key.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/KeyboardLayout.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/KeyboardLayout.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/KeyboardLayout.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/KeyboardLayout~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/KeyboardLayout.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/KeyboardLayout.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/ModifierTransformer.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/ModifierTransformer.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/ModifierTransformer.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/ModifierTransformer~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/ModifierTransformer.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/ModifierTransformer.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/NSMenuItem+Key.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/NSMenuItem+Key.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/NSMenuItem+Key.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/NSMenuItem+Key~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/NSMenuItem+Key.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/NSMenuItem+Key.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/Sauce.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Sauce.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Sauce.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Sauce~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Sauce.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/Sauce.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/SpecialKeyCode.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/SpecialKeyCode.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/SpecialKeyCode.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/SpecialKeyCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/SpecialKeyCode.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/SpecialKeyCode.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/Sauce/Lib/Sauce/TISInputSource+Property.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/TISInputSource+Property.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/TISInputSource+Property.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/TISInputSource+Property~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/TISInputSource+Property.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Sauce.build/TISInputSource+Property.dia"
+  }
+}

@@ -1,0 +1,11 @@
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/ActorIsolated.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AnyHashableSendable.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AsyncStream.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/AsyncThrowingStream.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Internal/Locking.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Internal/UncheckedBox.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/LockIsolated.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/MainSerialExecutor.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Result.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/Task.swift
+/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-concurrency-extras/Sources/ConcurrencyExtras/UncheckedSendable.swift

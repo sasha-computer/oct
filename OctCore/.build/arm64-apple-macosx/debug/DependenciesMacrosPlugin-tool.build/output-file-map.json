@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/DependencyClientMacro.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyClientMacro.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyClientMacro.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyClientMacro~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyClientMacro.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyClientMacro.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/DependencyEndpointMacro.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyEndpointMacro.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyEndpointMacro.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyEndpointMacro~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyEndpointMacro.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/DependencyEndpointMacro.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/Plugins.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Plugins.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Plugins.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Plugins~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Plugins.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Plugins.dia"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-dependencies/Sources/DependenciesMacrosPlugin/Support.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Support.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Support.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Support~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Support.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/DependenciesMacrosPlugin-tool.build/Support.dia"
+  }
+}

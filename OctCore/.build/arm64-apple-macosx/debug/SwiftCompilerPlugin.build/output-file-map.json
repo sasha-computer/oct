@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/master.swiftdeps"
+  },
+  "/Users/agentsc/Developer/hex/HexCore/.build/checkouts/swift-syntax/Sources/SwiftCompilerPlugin/CompilerPlugin.swift": {
+    "dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/CompilerPlugin.d",
+    "object": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/CompilerPlugin.swift.o",
+    "swiftmodule": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/CompilerPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/CompilerPlugin.swiftdeps",
+    "diagnostics": "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftCompilerPlugin.build/CompilerPlugin.dia"
+  }
+}

@@ -1,0 +1,3 @@
+module SwiftParserDiagnostics {
+    header "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/SwiftParserDiagnostics.build/include/SwiftParserDiagnostics-Swift.h"
+}

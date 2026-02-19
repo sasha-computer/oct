@@ -1,0 +1,3 @@
+module HexCore {
+    header "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/HexCore.build/include/HexCore-Swift.h"
+}

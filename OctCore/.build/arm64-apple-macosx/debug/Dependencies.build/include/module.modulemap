@@ -1,0 +1,3 @@
+module Dependencies {
+    header "/Users/agentsc/Developer/hex/HexCore/.build/arm64-apple-macosx/debug/Dependencies.build/include/Dependencies-Swift.h"
+}
