@@ -1,5 +1,5 @@
 #!/bin/bash
-# Build Oct (Debug) and relaunch it locally.
+# Build Oct (Release) and relaunch it locally.
 set -e
 
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -9,8 +9,11 @@ DERIVED_DATA="$PROJECT_ROOT/.build/xcode"
 echo "▶ Building $SCHEME..."
 xcodebuild \
   -scheme "$SCHEME" \
-  -configuration Debug \
+  -configuration Release \
   -derivedDataPath "$DERIVED_DATA" \
+  CODE_SIGN_IDENTITY="-" \
+  CODE_SIGNING_REQUIRED=NO \
+  CODE_SIGNING_ALLOWED=NO \
   -quiet
 
 APP_PATH=$(find "$DERIVED_DATA" -name "Oct.app" -maxdepth 6 | head -1)
